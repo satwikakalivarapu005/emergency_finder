@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Emergency Finder</string>
+    <string name="app_title">Emergency Services Finder</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="guest_user">Not signed in (Guest)</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="category_label">Category</string>
+    <string name="hospital">Hospital</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="police">Police</string>
+    <string name="favourites">Favourites</string>
+    <string name="search_radius">Search Radius</string>
+    <string name="radius_1km">1 km</string>
+    <string name="radius_2km">2 km</string>
+    <string name="radius_5km">5 km</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="refresh_location">Refresh Location</string>
+    <string name="empty_icon">Empty Icon</string>
+    <string name="no_places_found">No Places Found</string>
+    <string name="no_places_subtitle">No emergency services found in this search radius.</string>
+    <string name="expand_radius">Expand Radius to 5 km</string>
+</resources>
